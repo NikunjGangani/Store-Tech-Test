@@ -6,6 +6,7 @@
 //
 
 import XCTest
+@testable import StoreLab_Test
 
 final class StoreLab_TestTests: XCTestCase {
 

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B06C59DB-CA28-48E1-9308-3DED2692DB37"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2CCCEB6-4429-4A85-BD31-6AD437F81021"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab-TestTests/Photo/MockPhotoData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "dataFromJSON(withName:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "B2CCCEB6-4429-4A85-BD31-6AD437F81021 - e22d7640c47b48fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab_TestTests.dataFromJSON(withName: Swift.String) -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "StoreLab-TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-TestTests/Photo/MockPhotoData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "203">
+               </Location>
+               <Location
+                  uuid = "B2CCCEB6-4429-4A85-BD31-6AD437F81021 - e22d7640c47b48fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab_TestTests.dataFromJSON(withName: Swift.String) -&gt; Swift.Optional&lt;Foundation.Data&gt;"
+                  moduleName = "StoreLab-TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-TestTests/Photo/MockPhotoData.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "823">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D89D2FCD-FD64-4134-89D4-F7B13DED4C1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab-TestTests/Photo/MockPhotoData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "dataFromJSON(withName:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C9C1DE1-A139-4CA7-8EF2-F793ED63C0E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab-TestTests/Photo/View/PhotoViewControllerTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "setUpWithError()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D207446-3CFD-4CA6-85EF-9EEC9C1BEE27"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab-TestTests/Photo/View/PhotoViewControllerTest.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getPhotosData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D207446-3CFD-4CA6-85EF-9EEC9C1BEE27 - 566609d80d008fb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab_TestTests.PhotoViewControllerTest.getPhotosData() -&gt; ()"
+                  moduleName = "StoreLab-TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-TestTests/Photo/View/PhotoViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "0D207446-3CFD-4CA6-85EF-9EEC9C1BEE27 - 566609d80d008f99"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab_TestTests.PhotoViewControllerTest.getPhotosData() -&gt; ()"
+                  moduleName = "StoreLab-TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-TestTests/Photo/View/PhotoViewControllerTest.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4639A660-D297-4E4F-BAAF-C11738EA5203"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getPhotosList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4639A660-D297-4E4F-BAAF-C11738EA5203 - 5b0760b147f34ee8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, StoreLab_Test.ServiceError&gt;) -&gt; () in StoreLab_Test.PhotoViewModel.getPhotosList() -&gt; ()"
+                  moduleName = "StoreLab-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "215">
+               </Location>
+               <Location
+                  uuid = "4639A660-D297-4E4F-BAAF-C11738EA5203 - 71ad67fa9c632400"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Foundation.Data, StoreLab_TestTests.ServiceError&gt;) -&gt; () in StoreLab_TestTests.PhotoViewModel.getPhotosList() -&gt; ()"
+                  moduleName = "StoreLab-TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "215">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F308AA75-B01E-4543-AE30-947F01ACF2E4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getPhotosList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F308AA75-B01E-4543-AE30-947F01ACF2E4 - 941c1d0a11e53ec0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab_Test.PhotoViewModel.getPhotosList() -&gt; ()"
+                  moduleName = "StoreLab-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "397">
+               </Location>
+               <Location
+                  uuid = "F308AA75-B01E-4543-AE30-947F01ACF2E4 - bbc21355b00ddc20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab_TestTests.PhotoViewModel.getPhotosList() -&gt; ()"
+                  moduleName = "StoreLab-TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "397">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71377051-E946-4302-A475-F8F122DD166E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "init(manager:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71377051-E946-4302-A475-F8F122DD166E - 709cbb5637f0fc6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab_Test.PhotoViewModel.init(manager: StoreLab_Test.ServiceManager) -&gt; StoreLab_Test.PhotoViewModel"
+                  moduleName = "StoreLab-Test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "396">
+               </Location>
+               <Location
+                  uuid = "71377051-E946-4302-A475-F8F122DD166E - 28ccc1670c9bcfad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StoreLab_TestTests.PhotoViewModel.init(manager: StoreLab_TestTests.ServiceManager) -&gt; StoreLab_TestTests.PhotoViewModel"
+                  moduleName = "StoreLab-TestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikunjgangani/Desktop/Personal/StoreLab-Test/StoreLab-Test/Classes/ViewModel/PhotoViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "396">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -120,5 +120,15 @@ extension PhotosViewController: UICollectionViewDelegate, UICollectionViewDataSo
             viewModel.getPhotosList()
         }
     }
+    
+    func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
+        if let img = collectionView.cellForItem(at: indexPath) as? PhotosCell {
+            if let value = img.imgView.image {
+                let imageInfo   = GSImageInfo(image: value, imageMode: .aspectFit)
+                let imageViewer = PhotoDetailViewController(imageInfo: imageInfo)
+                present(imageViewer, animated: true, completion: nil)
+            }
+        }
+    }
 }
 

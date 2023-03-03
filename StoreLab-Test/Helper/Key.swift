@@ -6,3 +6,16 @@
 //
 
 import Foundation
+
+struct Title {
+    static let photos = "Photos"
+}
+
+struct Param {
+    static let page = "page"
+    static let limit = "limit"
+}
+
+struct Identifier {
+    static let photosCell = "PhotosCell"
+}
