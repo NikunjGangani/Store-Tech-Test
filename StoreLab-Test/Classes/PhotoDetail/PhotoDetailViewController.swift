@@ -238,27 +238,31 @@ open class PhotoDetailViewController: UIViewController {
         btn.layer.cornerRadius = 4
         btn.clipsToBounds = true
         btn.layer.borderColor = UIColor.white.cgColor
-        if var list = Utils.getDataFromUserDefault("SavedPhoto") as? [String] {
+        if let list = Utils.getDataFromUserDefault("SavedPhoto") as? [String] {
             let url = photo?.download_url ?? ""
             if list.contains(url) {
                 btn.setTitle("Remove from favorite", for: .normal)
             } else {
                 btn.setTitle("Add to favorite", for: .normal)
             }
+        } else {
+            btn.setTitle("Add to favorite", for: .normal)
         }
         btn.addTarget(self, action: #selector(addToFavotiteBtnAction), for: .touchUpInside)
-        self.view.addSubview(btn)
+        self.scrollView.addSubview(btn)
     }
     
     @objc fileprivate func addToFavotiteBtnAction() {
+        let url = photo?.download_url ?? ""
         if var list = Utils.getDataFromUserDefault("SavedPhoto") as? [String] {
-            let url = photo?.download_url ?? ""
             if let index = list.firstIndex(of: url) {
                 list.remove(at: index)
             } else {
                 list.append(url)
             }
             Utils.saveDataToUserDefault(list, "SavedPhoto")
+        } else {
+            Utils.saveDataToUserDefault([url], "SavedPhoto")
         }
     }
     
